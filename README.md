@@ -83,14 +83,6 @@ Testing infrastructure using **JUnit**, **JaCoCo**, **PIT**, and **GitHub Action
 
 ---
 
-## 📊 GitHub Stats
-
-![William's GitHub Stats](https://github-readme-stats.vercel.app/api?username=will13cb&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=will13cb&layout=compact&theme=transparent&hide_border=true)
-
----
-
 ## 📫 Connect
 
 - 💼 LinkedIn: https://linkedin.com/in/william-caron-bastarache
