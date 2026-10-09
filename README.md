@@ -51,4 +51,4 @@ Deepening my knowledge of **machine learning, probability calibration, and AI ag
 
 ## 📫 Connect
 
-[Portfolio](https://will13cb.github.io) · [LinkedIn](https://linkedin.com/in/william-caron-bastarache) · [Email](mailto:will13cb@gmail.com)
+[Portfolio]([https://will13cb.github.io](https://williamcaronbastarache.com/)) · [LinkedIn](https://linkedin.com/in/william-caron-bastarache) · [Email](mailto:will13cb@gmail.com)
